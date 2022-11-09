@@ -1,3 +1,3 @@
 # Demo Version
 
-Will be a Comp Val program
+Will be a Comp Val hope to be!
